@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riush03" alt="riush03" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/kashif_mehmood_?logo=twitter&style=for-the-badge" alt="kashif_mehmood_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kashif_mehmood_" target="blank"><img src="https://img.shields.io/twitter/follow/ViralNe94104639?logo=twitter&style=for-the-badge" alt="Denis Muriungi" /></a> </p>
 
 - 🔭 I’m currently working on [Machine Learning](https://kaggle.com)
 
