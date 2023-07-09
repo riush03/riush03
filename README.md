@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **Compose Web**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kashif-E?tab=repositories](https://github.com/Kashif-E?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/riush03?tab=repositories](https://github.com/riush03?tab=repositories)
 
-- 📝 I regularly write articles on [https://kashif-mehmood-km.medium.com/](https://kashif-mehmood-km.medium.com/)
+- 📝 I regularly write articles on [https://medium.com/@DenisMuriungi](https://medium.com/@DenisMuriungi)
 
-- 💬 Ask me about **Android , Machine Learning , Deep Learning, web development , contracts, ARCore, web design**
+- 💬 Ask me about **Android , Machine Learning , Deep Learning, web development , ARCore, web design**
 
 - 📫 How to reach me **Dennzriush@gmail.com**
 
@@ -31,23 +31,19 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD for Android Developers III | Building Pipelines with Github Actions](https://proandroiddev.com/ci-cd-for-android-developers-iii-building-pipelines-with-github-actions-e328f26f414a?source=rss-c403e2b09f16------2)
-- [CI/CD for Android Devs II | GitHub Actions Masterclass](https://proandroiddev.com/ci-cd-for-android-devs-ii-github-actions-masterclass-8a033bbaf42d?source=rss-c403e2b09f16------2)
-- [CI/CD Pipeline for Flavoured Android Apps using Fastlane and Github Actions](https://proandroiddev.com/ci-cd-pipeline-for-flavoured-android-apps-using-fastlane-and-github-actions-51667b7175af?source=rss-c403e2b09f16------2)
-- [Parallel API calls using Coroutines, having different return types](https://kashif-mehmood-km.medium.com/parallel-api-calls-using-coroutines-having-different-return-types-4d269a1b88d4?source=rss-c403e2b09f16------2)
+- [How Data Engineering Can Accelerate Start-up Growth](https://medium.com/@DenisMuriungi/how-data-engineering-can-accelerate-start-up-growth-aeb5d3e31dae)
+- [Quantization in practice | Machine Learning](https://medium.com/@DenisMuriungi/quantization-in-practice-machine-learning-c2611863e553)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kashif_mehmood_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashif_mehmood_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kashif-mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashif-mehmood" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kashif-mehmood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kashif-mehmood" height="30" width="40" /></a>
-<a href="https://fb.com/kashi.m.456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kashi.m.456" height="30" width="40" /></a>
-<a href="https://instagram.com/kashif_mehmood._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kashif_mehmood._" height="30" width="40" /></a>
-<a href="https://medium.com/@kashif-mehmood-km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kashif-mehmood-km" height="30" width="40" /></a>
+<a href="https://twitter.com/ViralNe94104639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Denis Muriungi Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/denis-muriungi9872183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Denis Muriungi ML Engineer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15528323/denis-muriungi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Denis Muriungi Stackoverflow" height="30" width="40" /></a>
+<a href="https://medium.com/@DenisMuriungi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Denis Muriungi Medium Blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-e&" alt="kashif-e" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashif-e&" alt="Denis Muriungi KE" /></p>
